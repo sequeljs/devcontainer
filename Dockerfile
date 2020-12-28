@@ -1,5 +1,5 @@
 # Base image
-FROM node:14.15.3-buster-slim
+FROM node:15.5.0-buster-slim
 
 # Exit immediately if a command exits with a non-zero status
 RUN set -e
